@@ -1,14 +1,14 @@
 # Product Card Sample
 This project is a simple product card sample created using JavaScript, React, and Tailwind CSS. It demonstrates the layout and styling of a product card.
 
-## Netlify
+## Preview
 https://productcardsample.netlify.app
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/product-card-sample.git
+   git clone https://github.com/Kaareel/product-card-sample.git
    ```
 2. **Change into the project directory:**
    ```bash
@@ -23,10 +23,6 @@ https://productcardsample.netlify.app
    npm start
     ```
 Open your browser and visit http://localhost:3000 to view the app.
-
-## Features
-Display a sample product card with product details.
-Responsive design using Tailwind CSS.
 
 ## Technologies Used
 JavaScript
