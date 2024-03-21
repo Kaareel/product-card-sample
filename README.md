@@ -2,26 +2,22 @@
 This project is a simple product card sample created using JavaScript, React, and Tailwind CSS. It demonstrates the layout and styling of a product card.
 
 ## Installation
-Clone the repository:
-
-sh
-Copy code
+1. **Clone the repository:**
+```bash
 git clone https://github.com/your-username/product-card-sample.git
-Navigate into the project directory:
-
-sh
-Copy code
+    ```
+2. **Change into the project directory:**
+```bash
 cd product-card-sample
-Install the dependencies:
-
-sh
-Copy code
+    ```
+3. **Install the dependencies:**
+```bash
 npm install
-Start the development server:
-
-sh
-Copy code
+    ```
+4. **Run the App:**
+```bash
 npm start
+    ```
 Open your browser and visit http://localhost:3000 to view the app.
 
 ## Features
